@@ -228,7 +228,7 @@ var config = {
             image: '',
             description: 'The Franco-Austrian War of 1809 also known as the War of the Fifth Coalition was waged between Napoleon and his client states versus the Austrians and their coalition of European states. The war was waged all across Europe but the main theater of war was Central Europe in the Bavarian region with the biggest battles being waged in Vienna and the surroundings of Regensburg. Therefore, our analysis will focus on the main theater in which Napoleon exercised the most influence but will also mention sporadically Napoleon’s influence in other parts of the war such as the Italian campaign. We picked this particular campaign because it has some of Napoleon’s most complicated maneuvers and it’s the first time he faces an enemy with a similar army structure.',
             location: {
-                center: [20.726, 41.682],
+                left: [20.726, 41.682],
                 zoom: 2.85,
                 pitch: 15,
                 bearing: 0
